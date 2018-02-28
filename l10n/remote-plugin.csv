@@ -1,0 +1,8 @@
+key,de-DE,en-US
+remote.plugin.say.hello,Hallo,Hello
+server.config.group.system.remote.title,Remote Plugins,Remote Plugins
+server.config.group.system.remote.introduction,-,-
+server.config.name.system.webfrontend_remote_plugin,Webfrontend,Webfrontend
+server.config.parameter.system.webfrontend_remote_plugin.instances.label,Remote URLs,Remote URLs
+server.config.parameter.system.webfrontend_remote_plugin.instances.js_url.label,Javascript,Javascript
+server.config.parameter.system.webfrontend_remote_plugin.instances.css_url.label,CSS,CSS

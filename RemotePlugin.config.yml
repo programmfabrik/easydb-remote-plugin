@@ -1,0 +1,27 @@
+plugin:
+  name: remote-plugin
+  version: 1.0
+  url: https://github.com/programmfabrik/easydb-remote-plugin
+  displayname:
+    de-DE: Remote Plugin
+    en-US: Remote Plugin
+  info:
+    de-DE: Das Remote Plugin erlaubt die Einbindung von externen Javascript-Quellen in das Webfrontend.
+    en-US: The remote plugin allows to embed external Javascript-Sources and CSS files into the webfrontend.
+  webfrontend:
+    url: remote-plugin.js
+    l10n: l10n/
+
+base_config:
+  - name: webfrontend_remote_plugin
+    group: remote
+    parameters:
+      instances:
+        type: table
+        fields:
+          - name: js_url
+            type: text
+            position: 0
+          - name: css_url
+            type: text
+            position: 1
