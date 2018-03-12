@@ -4,10 +4,12 @@ INSTALL_FILES = \
 	$(WEB)/l10n/cultures.json \
 	$(WEB)/l10n/de-DE.json \
 	$(WEB)/l10n/en-US.json \
-	$(WEB)/l10n/es-ES.json \
-	$(WEB)/l10n/it-IT.json \
 	$(WEB)/remote-plugin.js \
 	RemotePlugin.config.yml
+
+# XXX: not in source CSV
+#	$(WEB)/l10n/es-ES.json \
+#	$(WEB)/l10n/it-IT.json \
 
 L10N_FILES = l10n/remote-plugin.csv
 
