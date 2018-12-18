@@ -3,7 +3,7 @@ class RemotePlugin extends CUI.Element
 ez5.session_ready =>
 	config = ez5.session.getBaseConfig().system
 
-	for inst in config.webfrontend_remote_plugin.instances or []
+	for inst in config.webfrontend_remote_plugin?.instances or []
 		js_url = inst.js_url
 		js_loc = CUI.parseLocation(js_url)
 
