@@ -23,7 +23,7 @@ all: build
 
 include easydb-library/tools/base-plugins.make
 
-build: code # $(SCSS)
+build: code buildinfojson # $(SCSS)
 
 code: $(JS) $(L10N)
 
