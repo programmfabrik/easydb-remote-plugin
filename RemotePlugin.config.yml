@@ -1,5 +1,5 @@
 plugin:
-  name: remote-plugin
+  name: easydb-remote-plugin
   version: 1.0
   url: https://github.com/programmfabrik/easydb-remote-plugin
   displayname:
