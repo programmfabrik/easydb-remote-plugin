@@ -1,4 +1,5 @@
 PLUGIN_NAME = remote-plugin
+PLUGIN_PATH = easydb-remote-plugin
 
 INSTALL_FILES = \
 	$(WEB)/l10n/cultures.json \
