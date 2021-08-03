@@ -6,7 +6,7 @@ INSTALL_FILES = \
 	$(WEB)/l10n/de-DE.json \
 	$(WEB)/l10n/en-US.json \
 	$(WEB)/remote-plugin.js \
-	RemotePlugin.config.yml
+	manifest.yml
 
 # XXX: not in source CSV
 #	$(WEB)/l10n/es-ES.json \
