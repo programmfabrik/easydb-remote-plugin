@@ -1,7 +1,8 @@
 class RemotePlugin extends CUI.Element
 
 ez5.session_ready =>
-	config = ez5.session.getBaseConfig().system
+	config = ez5.session.getBaseConfig()
+	config = config.system or config # TODO: Remove this after #64076 is merged.
 
 	for inst in config.webfrontend_remote_plugin?.instances or []
 		js_url = inst.js_url
