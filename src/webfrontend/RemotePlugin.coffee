@@ -1,7 +1,7 @@
 class RemotePlugin extends CUI.Element
 
 ez5.session_ready =>
-	config = ez5.session.getBaseConfig()
+	config = ez5.session.getBaseConfig("plugin", "easydb-remote-plugin")
 	config = config.system or config # TODO: Remove this after #64076 is merged.
 
 	for inst in config.webfrontend_remote_plugin?.instances or []
