@@ -6,3 +6,5 @@ server.config.name.system.webfrontend_remote_plugin,Webfrontend,Webfrontend,Webf
 server.config.parameter.system.webfrontend_remote_plugin.instances.css_url.label,CSS,CSS,CSS,CSS,CSS
 server.config.parameter.system.webfrontend_remote_plugin.instances.js_url.label,Javascript,Javascript,Javascript,Javascript,Javascript
 server.config.parameter.system.webfrontend_remote_plugin.instances.label,Remote URLs,Remote URLs,Remote URLs,Remote URLs,Remote URLs
+server.config.group.system.plugin_easydb-remote-plugin.title,Remote Plugins,Remote Plugins,Remote Plugins,Remote Plugins,Remote Plugins
+server.config.group.system.plugin_easydb-remote-plugin.introduction,Einstellungen für das Remote-Plugin,Settings for the Remote plugin,Settings for the Remote plugin,Settings for the Remote plugin,Settings for the Remote plugin
