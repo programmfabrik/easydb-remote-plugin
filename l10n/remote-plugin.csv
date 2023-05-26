@@ -1,10 +1,10 @@
-key,de-DE,en-US,da-DK,fi-FI,sv-SE
-remote.plugin.say.hello,Hallo,Hello,Hello,Hello,Hej
-server.config.group.system.plugin_easydb-remote-plugin.introduction,Einstellungen für das Remote-Plugin,Settings for the Remote plugin,Settings for the Remote plugin,Settings for the Remote plugin,Fjärrplugininställningar
-server.config.group.system.plugin_easydb-remote-plugin.title,Remote Plugins,Remote Plugins,Remote Plugins,Remote Plugins,Fjärranslutna plug-ins
-server.config.group.system.remote.introduction,-,-,-,-,-
-server.config.group.system.remote.title,Remote Plugins,Remote Plugins,Remote Plugins,Remote Plugins,Fjärranslutna plug-ins
-server.config.name.system.webfrontend_remote_plugin,Webfrontend,Webfrontend,Webfrontend,Webfrontend,Webbgränssnitt
-server.config.parameter.system.webfrontend_remote_plugin.instances.css_url.label,CSS,CSS,CSS,CSS,CSS
-server.config.parameter.system.webfrontend_remote_plugin.instances.js_url.label,Javascript,Javascript,Javascript,Javascript,Javascript
-server.config.parameter.system.webfrontend_remote_plugin.instances.label,Remote URLs,Remote URLs,Remote URLs,Remote URLs,Fjärradresser
+key,de-DE,R,en-US,R,da-DK,R,fi-FI,R,sv-SE,R,fr-FR,R,it-IT,R,es-ES,R
+remote.plugin.say.hello,Hallo,FALSE,Hello,FALSE,Hello,FALSE,Hello,FALSE,Hej,FALSE,,FALSE,,FALSE,,FALSE
+server.config.group.system.plugin_easydb-remote-plugin.introduction,Einstellungen für das Remote-Plugin,FALSE,Settings for the Remote plugin,FALSE,Settings for the Remote plugin,FALSE,Settings for the Remote plugin,FALSE,Fjärrplugininställningar,FALSE,,FALSE,,FALSE,,FALSE
+server.config.group.system.plugin_easydb-remote-plugin.title,Remote Plugins,FALSE,Remote Plugins,FALSE,Remote Plugins,FALSE,Remote Plugins,FALSE,Fjärranslutna plug-ins,FALSE,,FALSE,,FALSE,,FALSE
+server.config.group.system.remote.introduction,-,FALSE,-,FALSE,-,FALSE,-,FALSE,-,FALSE,,FALSE,,FALSE,,FALSE
+server.config.group.system.remote.title,Remote Plugins,FALSE,Remote Plugins,FALSE,Remote Plugins,FALSE,Remote Plugins,FALSE,Fjärranslutna plug-ins,FALSE,,FALSE,,FALSE,,FALSE
+server.config.name.system.webfrontend_remote_plugin,Webfrontend,FALSE,Webfrontend,FALSE,Webfrontend,FALSE,Webfrontend,FALSE,Webbgränssnitt,FALSE,,FALSE,,FALSE,,FALSE
+server.config.parameter.system.webfrontend_remote_plugin.instances.css_url.label,CSS,FALSE,CSS,FALSE,CSS,FALSE,CSS,FALSE,CSS,FALSE,,FALSE,,FALSE,,FALSE
+server.config.parameter.system.webfrontend_remote_plugin.instances.js_url.label,Javascript,FALSE,Javascript,FALSE,Javascript,FALSE,Javascript,FALSE,Javascript,FALSE,,FALSE,,FALSE,,FALSE
+server.config.parameter.system.webfrontend_remote_plugin.instances.label,Remote URLs,FALSE,Remote URLs,FALSE,Remote URLs,FALSE,Remote URLs,FALSE,Fjärradresser,FALSE,,FALSE,,FALSE,,FALSE
